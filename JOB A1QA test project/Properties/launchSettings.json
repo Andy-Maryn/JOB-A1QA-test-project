@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JOB A1QA test project": {
+      "commandName": "Project",
+      "commandLineArgs": "--settings RunSettings.runsettings"
+    }
+  }
+}

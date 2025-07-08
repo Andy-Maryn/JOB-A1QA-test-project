@@ -1,0 +1,5 @@
+﻿<RunSettings>
+  <TestRunParameters>
+    <Parameter name="browser" value="Edge" />
+  </TestRunParameters>
+</RunSettings>
